@@ -16,8 +16,10 @@ namespace LeHungCuong_ASP_CDTT
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                namespaces: new[] { "LeHungCuong_ASP_CDTT.Controllers" } // Specify the namespace for the controllers
             );
         }
     }
 }
+    
