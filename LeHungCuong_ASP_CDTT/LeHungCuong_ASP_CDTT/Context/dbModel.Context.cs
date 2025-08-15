@@ -32,4 +32,13 @@ namespace LeHungCuong_ASP_CDTT.Context
         public virtual DbSet<Products> Products { get; set; }
         public virtual DbSet<Users> Users { get; set; }
     }
+
+    public class OrderDetailDTO
+    {
+        public int ProductId { get; set; }
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+        public double TotalPrice { get; set; }
+        public DateTime? CreatedAt { get; set; }
+    }
 }
