@@ -93,7 +93,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
 
                     // Đường dẫn lưu hình ảnh trong thư mục Images
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
 
                     // Lưu hình ảnh vào thư mục
                     image.SaveAs(filePath);
@@ -104,7 +104,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                 category.CreatedAt = DateTime.Now;
                 category.UpdatedAt = null;
                 category.Deleted = false;
-                category.ShowOnHomePage = false;
+                category.ShowOnHomePage = true;
 
                 // Lưu sản phẩm vào cơ sở dữ liệu
                 _context.Categories.Add(category);
@@ -161,7 +161,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     // Xóa ảnh cũ nếu tồn tại
                     if (!string.IsNullOrEmpty(existingCategory.Image))
                     {
-                        var oldPath = Path.Combine(Server.MapPath("~/content/images/items"), existingCategory.Image);
+                        var oldPath = Path.Combine(Server.MapPath("~/content/img/"), existingCategory.Image);
                         if (System.IO.File.Exists(oldPath))
                         {
                             System.IO.File.Delete(oldPath);
@@ -170,7 +170,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
 
                     // Lưu ảnh mới
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
                     image.SaveAs(filePath);
                     existingCategory.Image = fileName;
                 }

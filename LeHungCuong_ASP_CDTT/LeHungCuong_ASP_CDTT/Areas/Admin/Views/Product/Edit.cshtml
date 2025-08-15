@@ -102,7 +102,7 @@
                             <div class="form-group">
                                 <label for="FullDescription">Mô tả chi tiết</label>
                                 <div class="col-md-10">
-                                    @Html.TextAreaFor(model => model.FullDescription, new { @class = "form-control", placeholder = "Enter a full description", rows = 5 })
+                                    @Html.TextAreaFor(model => model.FullDescription, new { @class = "form-control",id= "FullDescription", placeholder = "Enter a full description", rows = 5 })
                                     @Html.ValidationMessageFor(model => model.FullDescription, "", new { @class = "text-danger" })
                                 </div>
                             </div>
@@ -137,3 +137,10 @@
         </div>
     </section>
 </div>
+<script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+<script>
+    CKEDITOR.replace('FullDescription', {
+        language: 'vi',
+        height: 300
+    });
+</script>

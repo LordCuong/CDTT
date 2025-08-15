@@ -80,7 +80,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
 
                     // Đường dẫn lưu hình ảnh trong thư mục Images
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
 
                     // Lưu hình ảnh vào thư mục
                     image.SaveAs(filePath);
@@ -148,7 +148,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     // Xóa ảnh cũ nếu tồn tại
                     if (!string.IsNullOrEmpty(existingBrand.Image))
                     {
-                        var oldPath = Path.Combine(Server.MapPath("~/content/images/items"), existingBrand.Image);
+                        var oldPath = Path.Combine(Server.MapPath("~/content/img/"), existingBrand.Image);
                         if (System.IO.File.Exists(oldPath))
                         {
                             System.IO.File.Delete(oldPath);
@@ -157,7 +157,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
 
                     // Lưu ảnh mới
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
                     image.SaveAs(filePath);
                     existingBrand.Image = fileName;
                 }

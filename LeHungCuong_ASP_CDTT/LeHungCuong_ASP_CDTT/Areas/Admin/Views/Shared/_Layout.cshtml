@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PNTShop</title>
+    <title>GearVN</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="~/content/admin/plugins/fontawesome-free/css/all.min.css">
@@ -69,9 +70,8 @@
     <script src="~/content/admin/dist/js/demo.js"></script>
     <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
     <script src="~/content/admin/dist/js/pages/dashboard.js"></script>
-
     <!-- Toastr JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
     <script>
         $(document).ready(function () {
             // Lấy URL hiện tại
@@ -328,7 +328,7 @@
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
             <a href="@Url.Action("Index", "Home")" class="brand-link">
-                <img src="~/content/admin/dist/img/icon.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+                <img src="~/content/img/logopc2.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
                 <span class="brand-text font-weight-light">Trang Quản lý</span>
             </a>
 
@@ -337,10 +337,10 @@
                 <!-- Sidebar user panel (optional) -->
                 <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                     <div class="image">
-                        <img src="~/content/admin/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                        @*<img src="~/content/admin/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">*@
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block">Ngọc thương</a>
+                        <a href="#" class="d-block">Admin</a>
                     </div>
                 </div>
 
@@ -404,7 +404,7 @@
         <!-- Main Footer -->
         @RenderBody();
         <footer class="main-footer">
-            <strong>PNTShop &copy; 2024-2025 <a href="https://adminlte.io">PNTShop.com</a>.</strong>
+            <strong>GearVN &copy; 2024-2025 <a href="https://gearvn.com/">GeaVN.com</a>.</strong>
             Mọi quyền được bảo lưu.
             <div class="float-right d-none d-sm-inline-block">
                 <b>Phiên bản</b> 0.0.1

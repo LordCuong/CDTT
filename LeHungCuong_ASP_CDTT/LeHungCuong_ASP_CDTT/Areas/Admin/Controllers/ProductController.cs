@@ -28,6 +28,11 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
 
         public ActionResult Index()
         {
+            var product = _context.Products
+                .Include(p => p.Brands)
+                .Include(p => p.Categories)
+                .ToList();
+
             return View();
         }
         //public ActionResult ListProduct(int page = 1, int pageSize = 5)
@@ -93,6 +98,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [ValidateInput(false)]
         public ActionResult Create(Products product, HttpPostedFileBase image)
         {
             if (ModelState.IsValid)
@@ -104,7 +110,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
 
                     // Đường dẫn lưu hình ảnh trong thư mục Images
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
 
                     // Lưu hình ảnh vào thư mục
                     image.SaveAs(filePath);
@@ -387,6 +393,8 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [ValidateInput(false)]
+
         public ActionResult Edit(Products product, HttpPostedFileBase image)
         {
             if (ModelState.IsValid)
@@ -415,7 +423,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                     // Xóa ảnh cũ nếu tồn tại
                     if (!string.IsNullOrEmpty(existingProduct.Image))
                     {
-                        var oldPath = Path.Combine(Server.MapPath("~/content/images/items"), existingProduct.Image);
+                        var oldPath = Path.Combine(Server.MapPath("~/content/img/"), existingProduct.Image);
                         if (System.IO.File.Exists(oldPath))
                         {
                             System.IO.File.Delete(oldPath);
@@ -424,7 +432,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
 
                     // Lưu ảnh mới
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
-                    var filePath = Path.Combine(Server.MapPath("~/content/images/items"), fileName);
+                    var filePath = Path.Combine(Server.MapPath("~/content/img/"), fileName);
                     image.SaveAs(filePath);
                     existingProduct.Image = fileName;
                 }
