@@ -6,8 +6,8 @@
 
 <script type="text/javascript">
     // Tạo mã đơn hàng duy nhất dựa trên thời gian hiện tại
-    //let currentOrderDescription = "PNT" + new Date().getTime();
-    let currentOrderDescription = "GVN1737114263762";
+    let currentOrderDescription = "GVN" + new Date().getDate();
+    //let currentOrderDescription = "GVN1737114263762";
 
     $(function () {
         // Khởi tạo sự kiện khi trang được tải
@@ -43,6 +43,7 @@
                 $(`#product-${productId}`).remove();
                 $('#CartCount').text(data.Count);
                 updateCartSummary();
+                toastr.success("Đã xóa sản phẩm khỏi giỏ hàng.");
             } else {
                 alert("Có lỗi xảy ra: " + data.Error);
             }
@@ -197,15 +198,15 @@
      * Kiểm tra trạng thái thanh toán bằng mô tả đơn hàng
      */
     function checkPayment(orderDescription) {
-        const checkUrl = "https://script.googleusercontent.com/macros/echo?user_content_key=yA79TOofcJsZC2SKsO_1AQJKjFLWKJ4ZluW5ty2AZJMAsgATYRJG1BkmHM2JYRU_Dz2po1u5jzwEjBNhNrgwZlFrO3_jfygqm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnNmCrnDXmHNaaVRo6CZ-aukyyvBNz-V-4NSlEt-icjr8SJRuuDZ-rpv_SHrXctfxCVhjwH1z6CHsOYFZAcojSkgECdl60pAblNz9Jw9Md8uu&lib=Mi60UgAAWkNk2jxMHCxDhw4kSKk6uq8lw";
+        const checkUrl = "https://script.google.com/macros/s/AKfycbxxZLvvxFErNTPezjaFjclDUZaOtkA6LPWyGrb-PhdWrYe5o7VGax5JHv4ToPegsFLmmQ/exec";
         let interval;
 
         $("#qrModal").on("shown.bs.modal", function () {
             interval = setInterval(function () {
-                $.getJSON(checkUrl, function (response) {
+                $.getJSON(checkUrl + "?orderDescription=" + orderDescription, function (response) {
                     const rows = response.data || [];
                     rows.forEach((row) => {
-                        const extractedCode = row.description?.match(/PNT\d+/)?.[0] || "";
+                        const extractedCode = row.description?.match(/GVN\d+/)?.[0] || "";
                         if (extractedCode === orderDescription) {
                             clearInterval(interval);
                             showSuccessModal();
@@ -337,7 +338,8 @@
                     </table>
 
                     <div class="card-body border-top">
-                        <a id="generateQR" class="btn btn-primary float-md-right"> Đặt hàng <i class="fa fa-chevron-right"></i> </a>
+                        <a href="@Url.Action("Index", "Payment")" class="btn btn-primary float-md-right">Thanh toán khi nhận hàng <i class="fa fa-chevron-right"></i></a>
+                        <a id="generateQR" class="btn btn-primary float-md-right"> Thanh toán Online <i class="fa fa-chevron-right"></i> </a>
                         <a href="Home" class="btn btn-light"> <i class="fa fa-chevron-left"></i> Mua thêm sản phẩm </a>
                     </div>
                 </div> <!-- card.// -->

@@ -3,95 +3,51 @@
   "WorkspaceRootPath": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\order\\_orderdetailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\order\\_orderdetailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|e:\\tailieuhoctap\\cdtt\\lehungcuong_asp_cdtt\\lehungcuong_asp_cdtt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -99,12 +55,12 @@
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\_listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -115,32 +71,172 @@
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\_listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\grid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\scripts\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\scripts\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\js\\jquery-2.0.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\js\\jquery-2.0.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\dbmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\dbmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\large.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\listtrash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\_listbrand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -153,14 +249,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -189,10 +277,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,18 +323,6 @@
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\firebaseusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\lehungcuong_asp_cdtt\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{4A3691B5-46D2-4393-AACC-F4E7A09C9F6A}|LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT.csproj|solutionrelative:lehungcuong_asp_cdtt\\context\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
@@ -266,165 +338,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Web.config",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Web.config",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Web.config",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-15T03:01:57.55Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:39:44.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T00:53:22.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dbModel.Context.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:56:44.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:54.654Z",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Web.config",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Web.config",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Web.config",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-15T03:01:57.55Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "_OrderDetailsPartial.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Order\\_OrderDetailsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T05:50:05.351Z",
+              "WhenOpened": "2025-08-15T05:30:49.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T05:57:38.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T05:57:43.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AQIAAN0AAAAAAAAAAAAAAOsAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T06:45:22.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T01:24:20.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:50:24.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Cart\\Index.cshtml",
               "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-15T01:42:36.968Z",
               "EditorCaption": ""
@@ -432,136 +387,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T01:55:28.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Grid.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T01:21:35.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T02:19:32.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\OrderController.cs",
               "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\OrderController.cs",
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:38:49.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T02:38:49.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T02:42:53.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_SearchResults.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T01:28:50.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CartModel.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:13.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T01:23:28.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Large.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-15T01:19:27.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T07:24:08.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\ProductController.cs",
@@ -569,492 +406,223 @@
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T06:44:01.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T06:44:01.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:39:21.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Products.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Products.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\Products.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Products.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\Products.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T07:47:41.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ListTrash.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:41:29.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:46.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T07:15:28.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "_ListOrder.cshtml",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
               "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\_ListOrder.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAhAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T07:06:29.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T07:06:29.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ListProduct.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAABMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:36:20.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAACKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:38:03.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ListProduct.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:37:19.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:23:03.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAcwGUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:34:42.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_ListUser.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:45:41.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:16:14.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ListBrand.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:13:43.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:43:49.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:01:43.981Z",
+              "WhenOpened": "2025-08-18T08:22:13.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:40:26.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwD0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:24:51.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAUwG4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:18:35.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 3,
               "Title": "BrandController.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\BrandController.cs",
               "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\BrandController.cs",
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "ViewState": "AQIAALkAAAAAAAAAAAAAwJ0AAAAiAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAswLYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T06:05:53.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "_ListCategory.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:21:39.474Z",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAswMkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:18:35.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ListCategory.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:19:45.399Z",
+              "WhenOpened": "2025-08-15T02:42:53.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 15,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:36:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\PaymentController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:15:48.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\packages.config",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\packages.config",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\packages.config",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-20T00:56:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Web.config",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Web.config",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Web.config",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Web.config",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-20T00:57:02.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE0AAAA0AAAA",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:40:42.97Z",
+              "WhenOpened": "2025-08-11T07:24:08.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYBAAAAAAAAAAAuwLsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T05:50:05.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "DocumentIndex": 16,
+              "Title": "_ListProduct.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\_ListProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:37:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T06:45:22.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbModel.Context.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:40:50.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:56:44.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ListOrder.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAhwCgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T07:05:27.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "dbModel.edmx.diagram",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-11T07:18:40.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "dbModel.Designer.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 19,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\OrderViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T07:18:42.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:51:46.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "dbModel.tt",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-11T07:18:43.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "dbModel.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAkwOIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T07:18:48.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T00:53:22.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:42:32.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:43:49.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ListUser.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:43:40.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:23:57.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:17:18.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:46:33.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ListBrand.cshtml",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T06:11:13.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "dbModel.edmx [Diagram1]",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx [Diagram1]",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-11T05:54:09.063Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
-              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
-              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:37.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 24,
               "Title": "HomeModel.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\HomeModel.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\HomeModel.cs",
@@ -1062,25 +630,694 @@
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\HomeModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:30.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:51:30.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 25,
+              "Title": "Grid.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Grid.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T01:21:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T05:57:38.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAAwKcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:34:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:51:13.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:39:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:38:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:40:42.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "FirebaseUserModel.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\FirebaseUserModel.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\FirebaseUserModel.cs",
               "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\FirebaseUserModel.cs",
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\FirebaseUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:51:12.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:51:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T01:24:20.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAAAFYBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:50:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Products.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\Products.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Products.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:47:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "script.js",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Scripts\\js\\script.js",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Scripts\\js\\script.js",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Scripts\\js\\script.js",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Scripts\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-18T06:43:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-15T06:24:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.css",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-15T06:24:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.rtl.css",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-reboot.rtl.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-15T06:24:54.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "script.js",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\script.js",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\js\\script.js",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\script.js",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-15T06:24:59.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:51:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\main.js",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\js\\main.js",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\main.js",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-15T06:25:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "jquery-2.0.0.min.js",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\jquery-2.0.0.min.js",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\js\\jquery-2.0.0.min.js",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\jquery-2.0.0.min.js",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\js\\jquery-2.0.0.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-15T06:25:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-15T06:25:23.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\css\\style.css",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\css\\style.css",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-15T06:25:31.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-15T06:24:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-15T06:24:47.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Site.css",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\Site.css",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Content\\Site.css",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Content\\Site.css",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-15T06:24:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\Orders.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:15:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T01:39:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Models\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:51:37.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T05:57:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbModel.Context.tt",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.tt",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.tt",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.tt",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-15T03:45:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T01:55:28.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T02:19:32.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_SearchResults.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\_SearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T01:28:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T01:23:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Large.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\Large.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T01:19:27.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ListTrash.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Product\\ListTrash.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:41:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:23:03.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ListUser.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\_ListUser.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:45:41.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:16:14.616Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
+              "Title": "_ListBrand.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\_ListBrand.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:13:43.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:01:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:40:26.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:24:51.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ListCategory.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\_ListCategory.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:21:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ListCategory.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\ListCategory.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:19:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:40:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ListOrder.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:05:27.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "dbModel.edmx.diagram",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T07:18:40.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "dbModel.Designer.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:18:42.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "dbModel.tt",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-11T07:18:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "dbModel.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:18:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:42:32.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ListUser.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\ListUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:43:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:23:57.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:17:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:46:33.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ListBrand.cshtml",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Areas\\Admin\\Views\\Brand\\ListBrand.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T06:11:13.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "dbModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx",
+              "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx",
+              "ToolTip": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx [Diagram1]",
+              "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Context\\dbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-11T05:54:09.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
               "Title": "About.cshtml",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\Views\\Home\\About.cshtml",
@@ -1088,12 +1325,11 @@
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T05:57:47.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:57:47.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 81,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "E:\\tailieuhoctap\\CDTT\\LeHungCuong_ASP_CDTT\\LeHungCuong_ASP_CDTT\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "LeHungCuong_ASP_CDTT\\App_Start\\FilterConfig.cs",
@@ -1101,8 +1337,7 @@
               "RelativeToolTip": "LeHungCuong_ASP_CDTT\\App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:42:39.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:42:39.215Z"
             }
           ]
         }

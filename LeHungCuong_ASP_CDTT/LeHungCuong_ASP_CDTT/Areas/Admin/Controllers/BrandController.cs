@@ -170,7 +170,7 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
             TempData["Error"] = "Có lỗi xảy ra khi cập nhật danh mục!";
             return View(brand);
         }
-        public ActionResult Delete(int id)
+public ActionResult Delete(int id)
         {
             var brand = _context.Brands.FirstOrDefault(b => b.Id == id);
             if (brand == null)
@@ -178,14 +178,29 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
                 return HttpNotFound();
             }
 
-            // Xóa sản phẩm khỏi cơ sở dữ liệu
-            _context.Brands.Remove(brand);
-            _context.SaveChanges();
+            try
+            {
+                // Kiểm tra ràng buộc: brand có sản phẩm không?
+                var hasProducts = _context.Products.Any(p => p.BrandId == id);
+                if (hasProducts)
+                {
+                    TempData["Error"] = "Không thể xóa thương hiệu vì vẫn còn sản phẩm thuộc thương hiệu này!";
+                    return RedirectToAction("ListBrand");
+                }
 
-            TempData["Success"] = "Danh mục đã được xóa vĩnh viễn!";
+                // Xóa brand khỏi cơ sở dữ liệu
+                _context.Brands.Remove(brand);
+                _context.SaveChanges();
+
+                TempData["Success"] = "Thương hiệu đã được xóa vĩnh viễn!";
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = "Lỗi khi xóa thương hiệu: " + ex.Message;
+            }
+
             return RedirectToAction("ListBrand");
-        }
-        [HttpPost]
+        }        [HttpPost]
         public JsonResult UpdateShowOnHomePage(int id, bool showOnHomePage)
         {
             try

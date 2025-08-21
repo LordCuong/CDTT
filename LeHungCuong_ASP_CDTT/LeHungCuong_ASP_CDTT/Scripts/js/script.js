@@ -5,7 +5,7 @@ $(document).ready(function () {
     console.log("Countdown script loaded!"); // Đặt log để kiểm tra file đúng
 
     // Countdown logic
-    const countdownDate = new Date("2025-04-30T23:59:59").getTime();
+    const countdownDate = new Date("2025-08-18T23:59:59").getTime();
 
     function updateCountdown() {
         const now = new Date().getTime();

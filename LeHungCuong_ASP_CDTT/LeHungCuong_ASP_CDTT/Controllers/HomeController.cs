@@ -151,21 +151,19 @@ namespace LeHungCuong_ASP_CDTT.Controllers
         {
             if (ModelState.IsValid)
             {
-
-
                 var f_password = GetMD5(password);
                 var data = objWebAspDbEntities.Users.Where(s => s.Email.Equals(email) && s.Password.Equals(f_password)).ToList();
                 if (data.Count() > 0)
                 {
-                    //add session
                     Session["FullName"] = data.FirstOrDefault().FirstName + " " + data.FirstOrDefault().LastName;
                     Session["Email"] = data.FirstOrDefault().Email;
                     Session["idUser"] = data.FirstOrDefault().Id;
+                    Session["IsAdmin"] = data.FirstOrDefault().IsAdmin;
                     return RedirectToAction("Index");
                 }
                 else
                 {
-                    ViewBag.error = "Đăng nhập thất bại";
+                    ViewBag.error = "Login failed";
                     return RedirectToAction("Login");
                 }
             }
@@ -226,7 +224,7 @@ namespace LeHungCuong_ASP_CDTT.Controllers
 
             // Tìm kiếm trong database
             var results = objWebAspDbEntities.Products
-                .Where(p => p.Name.Contains(query) || p.ShortDes.Contains(query))
+                .Where(p => (p.Name.Contains(query) || p.ShortDes.Contains(query)) && p.ShowOnHomePage.HasValue && p.ShowOnHomePage.Value == true)
                 .Take(10) // Giới hạn số kết quả (ví dụ: 10 kết quả)
                 .ToList();
 
@@ -242,10 +240,23 @@ namespace LeHungCuong_ASP_CDTT.Controllers
 
         // Action trả về danh sách danh mục dưới dạng JSON
         [HttpGet]
-        public ActionResult GetCategories()
+        public JsonResult GetCategories()
         {
-            var categories = _context.Categories.ToList();
-            return Json(categories, JsonRequestBehavior.AllowGet);
+            try
+            {
+                var categories = _context.Categories
+                    .Select(c => new {
+                        Id = c.Id,
+                        Name = c.Name
+                    })
+                    .ToList();
+
+                return Json(categories, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { error = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
         }
     }
 }

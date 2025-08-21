@@ -185,17 +185,33 @@ namespace LeHungCuong_ASP_CDTT.Areas.Admin.Controllers
         }
         public ActionResult Delete(int id)
         {
-            var category = _context.Categories.FirstOrDefault(c => c.Id == id);
-            if (category == null)
+            var categories = _context.Categories.FirstOrDefault(b => b.Id == id);
+            if (categories == null)
             {
                 return HttpNotFound();
             }
 
-            // Xóa sản phẩm khỏi cơ sở dữ liệu
-            _context.Categories.Remove(category);
-            _context.SaveChanges();
+            try
+            {
+                // Kiểm tra ràng buộc: brand có sản phẩm không?
+                var hasProducts = _context.Products.Any(p => p.CategoryId == id);
+                if (hasProducts)
+                {
+                    TempData["Error"] = "Không thể xóa danh mục vì vẫn còn sản phẩm thuộc danh mục này!";
+                    return RedirectToAction("ListCategory");
+                }
 
-            TempData["Success"] = "Thương hiệu đã được xóa vĩnh viễn!";
+                // Xóa brand khỏi cơ sở dữ liệu
+                _context.Categories.Remove(categories);
+                _context.SaveChanges();
+
+                TempData["Success"] = "danh mục đã được xóa vĩnh viễn!";
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = "Lỗi khi xóa danh mục: " + ex.Message;
+            }
+
             return RedirectToAction("ListCategory");
         }
         [HttpPost]

@@ -174,13 +174,13 @@
             <div class="col-md-8">
                 <h5 class="title-description">Mô tả</h5>
                 <p>
-                    @Model.FullDescription
+                    @Html.Raw(Model.FullDescription)
                 </p>
-                <ul class="list-check">
+                @*<ul class="list-check">
                     <li>Chất liệu: Thép không gỉ</li>
                     <li>Cân nặng: 1,6kg</li>
 
-                </ul>
+                </ul>*@
 
                 <h5 class="title-description">Thông số kỹ thuật</h5>
                 @*<table class="table table-bordered">

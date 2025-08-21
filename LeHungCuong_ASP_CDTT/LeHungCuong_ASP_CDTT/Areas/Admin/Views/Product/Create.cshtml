@@ -92,7 +92,15 @@
                             <div class="form-group">
                                 <label for="TypeId">Kiểu hiển thị</label>
                                 <div class="col-md-10">
-                                    @Html.EditorFor(model => model.TypeId, new { htmlAttributes = new { @class = "form-control", placeholder = "Nhập kiểu hiển thị" } })
+                                    @Html.DropDownListFor(model => model.TypeId,
+                                        new List<SelectListItem>
+                                        {
+                                            new SelectListItem { Text = "Đề xuất", Value = "1", Selected = Model.TypeId == 1 },
+                                            new SelectListItem { Text = "Giảm giá", Value = "2", Selected = Model.TypeId == 2 }
+                                        },
+                                        "Chọn kiểu hiển thị",
+                                        new { @class = "form-control" }
+                                    )
                                     @Html.ValidationMessageFor(model => model.TypeId, "", new { @class = "text-danger" })
                                 </div>
                             </div>
@@ -148,5 +156,14 @@
     CKEDITOR.replace('FullDescription', {
         language: 'vi',
         height: 300
+    });
+        document.getElementById('Name').addEventListener('input', function () {
+        var name = this.value;
+        var slug = name.toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-');
+        document.getElementById('Slug').value = slug;
     });
 </script>

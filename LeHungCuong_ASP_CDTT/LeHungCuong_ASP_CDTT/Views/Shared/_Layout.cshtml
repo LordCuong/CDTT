@@ -7,24 +7,16 @@
     <title>GearVN</title>
     <link href="~/content/img/logopc.png" rel="shortcut icon" type="image/x-icon">
     <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-    <!-- Bootstrap JS (nếu dùng các tính năng JS của Bootstrap) -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Toastr -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-
-    <!-- jQuery -->
-    @*<script src="~/scripts/js/jquery-2.0.0.min.js" type="text/javascript"></script>*@
+    <script src="~/scripts/js/jquery-2.0.0.min.js" type="text/javascript"></script>
 
     <!-- Bootstrap -->
     <link href="~/content/css/bootstrap.css" rel="stylesheet" />
     <script src="~/scripts/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
 
     <!-- Font awesome -->
     <link href="~/content/fonts/fontawesome/css/all.min.css" type="text/css" rel="stylesheet">
+    <script src="~/Scripts/jquery-3.7.0.min.js"></script>
 
     <!-- Custom style -->
     <link href="~/content/css/responsive.css" rel="stylesheet" />
@@ -32,9 +24,8 @@
 
     <!-- Custom javascript -->
     <script src="~/scripts/js/script.js" type="text/javascript"></script>
-    @*<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>*@
-
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script>
         $(document).ready(function () {
             $('#search-query').on('keyup', function () {
@@ -79,8 +70,8 @@
                         dropdownMenu.append('<a class="dropdown-item" href="/Home/Grid/0">Tất cả</a>');
 
                         // Thêm các danh mục vào dropdown
-                        data.forEach(function (category) {
-                            dropdownMenu.append('<a class="dropdown-item" href="/Home/Grid/' + category.Id + '">' + category.Name + '</a>');
+                        data.forEach(function (categories) {
+                            dropdownMenu.append('<a class="dropdown-item" href="/Home/Grid/' + categories.Id + '">' + categories.Name + '</a>');
                         });
                     }
                 },
@@ -165,24 +156,36 @@ $(document).ready(function () {
                                 <a href="#" class="widget-view">
                                     <div class="icon-area">
                                         <i class="fa fa-user"></i>
-
                                     </div>
                                     @if (Session["idUser"] != null)
                                     {
-                                        <small class="text"> Hi, @Session["FullName"] </small>
+                                        var userId = Session["idUser"];
+                                        var userEmail = Session["Email"];
+                                        var fullName = Session["FullName"]; // Lấy tên đầy đủ từ session
+                                        var isAdmin = (Session["IsAdmin"] != null && (bool)Session["IsAdmin"]);
+
+                                        <div class="user-info">
+                                            <p>@fullName</p> <!-- Hiển thị tên đầy đủ của người dùng -->
+                                            <!-- Nếu là admin thì hiển thị link trang quản trị -->
+                                            @if (isAdmin)
+                                            {
+                                                <a href="~/Admin/Home/Index" class="btn btn-link">Trang quản trị</a>
+                                            }
+
+                                            <a href="~/Home/Logout" class="btn btn-link">Đăng xuất</a>
+                                        </div>
                                     }
                                     else
                                     {
-                                        <small class="text"> </small>
+                                        <a href="~/Home/Login" class="text-decoration-none">Đăng nhập</a>
                                     }
-
                                 </a>
                             </div>
                             <div class="widget-header mr-3">
-                                <a href="https://www.messenger.com/t/100033210277472?locale=vi_VN" class="widget-view">
+                                <a href="https://www.facebook.com/cuong.le.572304" class="widget-view">
                                     <div class="icon-area">
                                         <i class="fa fa-comment-dots"></i>
-                                        <span class="notify">1</span>
+                                        @*<span class="notify">1</span>*@
                                     </div>
                                     <small class="text"> Liên hệ </small>
                                 </a>
@@ -206,12 +209,12 @@ $(document).ready(function () {
                                     <small class="text"> Giỏ hàng </small>
                                 </a>
                             </div>
-                            @if (Session["idUser"] != null)
+                            @*@if (Session["idUser"] != null)
                             {
                                 <div class="widget-header">
                                     <a href="@Url.Action("Logout", "Home", new {})" class="widget-view">
                                         <div class="icon-area">
-                                            <i class="fa fa-sign-out-alt"></i> <!-- Đây là icon log out -->
+                                            <i class="fa fa-sign-out-alt"></i>  Đây là icon log out 
                                         </div>
                                         <small class="text"> Đăng xuất </small>
                                     </a>
@@ -222,12 +225,12 @@ $(document).ready(function () {
                                 <div class="widget-header">
                                     <a href="@Url.Action("Login", "Home", new {})" class="widget-view">
                                         <div class="icon-area">
-                                            <i class="fa fa-sign-in-alt"></i> <!-- Đây là icon đăng nhập -->
+                                            <i class="fa fa-sign-in-alt"></i>  Đây là icon đăng nhập 
                                         </div>
                                         <small class="text"> Đăng nhập </small>
                                     </a>
                                 </div>
-                            }
+                            }*@
 
                         </div> <!-- widgets-wrap.// -->
                     </div> <!-- col.// -->
