@@ -121,10 +121,12 @@
                     </option>
                 </select>
                 <div class="btn-group">
-                    <a href="@Url.Action("Grid", "Home", new { @Id = ViewBag.CurrentCategoryId })" class="btn btn-light active" data-toggle="tooltip" title="Grid view">
+                    <a href="@Url.Action("Grid", "Home", new { Id = ViewBag.CurrentId, type = ViewBag.CurrentType })"
+                       class="btn btn-light active" data-toggle="tooltip" title="Grid view">
                         <i class="fa fa-bars"></i>
                     </a>
-                    <a href="@Url.Action("Large", "Home", new { @Id = ViewBag.CurrentCategoryId })" class="btn btn-light" data-toggle="tooltip" title="Large view">
+                    <a href="@Url.Action("Large", "Home", new { Id = ViewBag.CurrentId, type = ViewBag.CurrentType })"
+                       class="btn btn-light" data-toggle="tooltip" title="Large view">
                         <i class="fa fa-th"></i>
                     </a>
                 </div>
@@ -186,7 +188,7 @@
                 @if (ViewBag.CurrentPage > 1)
                 {
                     <li class="page-item">
-                        <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(), new { Id = ViewBag.CurrentCategoryId, page = ViewBag.CurrentPage - 1, pageSize = ViewBag.PageSize })">Trước</a>
+                        <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(),new { Id = ViewBag.CurrentId, type = ViewBag.CurrentType, page = ViewBag.CurrentPage - 1, pageSize = ViewBag.PageSize })">Trước</a>
                     </li>
                 }
                 else
@@ -206,16 +208,16 @@
                     }
                     else
                     {
-                        <li class="page-item">
-                            <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(), new { Id = ViewBag.CurrentCategoryId, page = i, pageSize = ViewBag.PageSize })">@i</a>
-                        </li>
+            <li class="page-item">
+                <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(),new { Id = ViewBag.CurrentId, type = ViewBag.CurrentType, page = i, pageSize = ViewBag.PageSize })">@i</a>
+            </li>
                     }
                 }
 
                 @if (ViewBag.CurrentPage < ViewBag.TotalPages)
                 {
                     <li class="page-item">
-                        <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(), new { Id = ViewBag.CurrentCategoryId, page = ViewBag.CurrentPage + 1, pageSize = ViewBag.PageSize })">Tiếp theo</a>
+                        <a class="page-link" href="@Url.Action(ViewContext.RouteData.Values["action"].ToString(),new { Id = ViewBag.CurrentId, type = ViewBag.CurrentType, page = ViewBag.CurrentPage + 1, pageSize = ViewBag.PageSize })">Tiếp theo</a>
                     </li>
                 }
                 else

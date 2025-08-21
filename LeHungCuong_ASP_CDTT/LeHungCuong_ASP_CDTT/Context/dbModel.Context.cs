@@ -35,6 +35,8 @@ namespace LeHungCuong_ASP_CDTT.Context
 
     public class OrderDetailDTO
     {
+        public string ProductName { get; set; }   // tên sản phẩm
+        public string ProductImage { get; set; }  // đường dẫn ảnh
         public int ProductId { get; set; }
         public int Quantity { get; set; }
         public double Price { get; set; }

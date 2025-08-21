@@ -80,6 +80,33 @@
                 }
             });
         });
+
+            $(document).ready(function () {
+            $.ajax({
+                url: '@Url.Action("Getbrands", "Home")', // Đảm bảo rằng URL đúng
+                method: 'GET',
+                success: function (data) {
+                    console.log(data);  // Kiểm tra dữ liệu trả về từ AJAX
+
+                    var dropdownMenu = $('#brandDropdown');
+                    dropdownMenu.empty(); // Xóa nội dung cũ trong menu (nếu có)
+
+                    if (data.length > 0) {
+                        // Thêm phần tử "Tất cả"
+                        dropdownMenu.append('<a class="dropdown-item" href="/Home/Grid/0">Tất cả</a>');
+
+                        // Thêm các danh mục vào dropdown
+                        data.forEach(function (brands) {
+                            dropdownMenu.append('<a class="dropdown-item" href="/Home/Grid/' + brands.Id + '?type=brand">' + brands.Name + '</a>');
+                        });
+                    }
+                },
+                error: function () {
+                    console.log("Error loading brands");
+                }
+            });
+        });
+
         $(document).ready(function () {
     $(".view-details").click(function () {
         var orderId = $(this).data("id");
@@ -254,6 +281,12 @@ $(document).ready(function () {
                                 <!-- Các danh mục sẽ được chèn vào đây -->
                             </div>
                         </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"> <i class="fa fa-bars text-muted mr-2"></i> Thương hiệu </a>
+                            <div id="brandDropdown" class="dropdown-menu">
+                                <!-- Các thuong hieu sẽ được chèn vào đây -->
+                            </div>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Sẵn sàng vận chuyển</a>
                         </li>
@@ -267,16 +300,16 @@ $(document).ready(function () {
                             <a class="nav-link" href="#">Bán hàng cùng chúng tôi</a>
                         </li>
                         @*<li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Các trang của chúng tôi</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="@Url.Action("Index", "Home", new {})">Trang chủ</a>
-                                    <a class="dropdown-item" href="@Url.Action("Index", "Category", new {})">Tất cả danh mục</a>
-                                    <a class="dropdown-item" href="@Url.Action("Index", "Cart", new {})">Giỏ hàng</a>
-                                    <a class="dropdown-item" href="@Url.Action("Login", "Home", new {})">Đăng nhập</a>
-                                    <a class="dropdown-item" href="@Url.Action("Register", "Home", new {})">Đăng ký</a>
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Các trang của chúng tôi</a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="@Url.Action("Index", "Home", new {})">Trang chủ</a>
+                <a class="dropdown-item" href="@Url.Action("Index", "Category", new {})">Tất cả danh mục</a>
+                <a class="dropdown-item" href="@Url.Action("Index", "Cart", new {})">Giỏ hàng</a>
+                <a class="dropdown-item" href="@Url.Action("Login", "Home", new {})">Đăng nhập</a>
+                <a class="dropdown-item" href="@Url.Action("Register", "Home", new {})">Đăng ký</a>
 
-                                </div>
-                            </li>*@
+            </div>
+        </li>*@
                     </ul>
                     <ul class="navbar-nav ml-md-auto">
                         <li class="nav-item">

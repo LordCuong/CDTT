@@ -57,27 +57,37 @@ namespace LeHungCuong_ASP_CDTT.Controllers
 
 
 
-        public ActionResult Grid(int Id, int page = 1, int pageSize = 8)
+        public ActionResult Grid(int Id, string type = "category", int page = 1, int pageSize = 8)
         {
             List<Products> listProduct;
 
-            if (Id == 0) // Nếu ID là 0, lấy tất cả sản phẩm
+            if (Id == 0)
             {
-                listProduct = objWebAspDbEntities.Products.Where(b => b.ShowOnHomePage.HasValue && b.ShowOnHomePage.Value == true).ToList();
+                listProduct = objWebAspDbEntities.Products
+                    .Where(b => b.ShowOnHomePage.HasValue && b.ShowOnHomePage.Value == true)
+                    .ToList();
             }
             else
             {
-                listProduct = objWebAspDbEntities.Products.Where(b => b.CategoryId == Id && b.ShowOnHomePage.HasValue && b.ShowOnHomePage.Value == true).ToList();
+                if (type == "brand")
+                {
+                    listProduct = objWebAspDbEntities.Products
+                        .Where(b => b.BrandId == Id && b.ShowOnHomePage.HasValue && b.ShowOnHomePage.Value == true)
+                        .ToList();
+                }
+                else // mặc định là category
+                {
+                    listProduct = objWebAspDbEntities.Products
+                        .Where(b => b.CategoryId == Id && b.ShowOnHomePage.HasValue && b.ShowOnHomePage.Value == true)
+                        .ToList();
+                }
             }
 
-            // Tính tổng số sản phẩm
             int totalProducts = listProduct.Count;
-
-            // Phân trang
             var paginatedProducts = listProduct.Skip((page - 1) * pageSize).Take(pageSize).ToList();
 
-            // Truyền dữ liệu cần thiết sang ViewBag
-            ViewBag.CurrentCategoryId = Id;
+            ViewBag.CurrentType = type;
+            ViewBag.CurrentId = Id;
             ViewBag.CurrentPage = page;
             ViewBag.TotalPages = (int)Math.Ceiling((double)totalProducts / pageSize);
             ViewBag.PageSize = pageSize;
@@ -252,6 +262,25 @@ namespace LeHungCuong_ASP_CDTT.Controllers
                     .ToList();
 
                 return Json(categories, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { error = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
+        [HttpGet]
+        public JsonResult Getbrands()
+        {
+            try
+            {
+                var brands = _context.Brands
+                    .Select(c => new {
+                        Id = c.Id,
+                        Name = c.Name
+                    })
+                    .ToList();
+
+                return Json(brands, JsonRequestBehavior.AllowGet);
             }
             catch (Exception ex)
             {

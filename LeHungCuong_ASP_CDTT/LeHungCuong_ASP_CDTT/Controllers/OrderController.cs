@@ -50,6 +50,8 @@ namespace LeHungCuong_ASP_CDTT.Controllers
                                            {
                                                ProductId = od.ProductId,
                                                Quantity = od.Quantity,
+                                               ProductName = od.Products.Name,         // join sang Products
+                                               ProductImage = od.Products.Image,
                                                Price = od.Price,
                                                TotalPrice = od.TotalPrice,
                                                CreatedAt = od.CreatedAt
